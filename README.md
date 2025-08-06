@@ -1,2 +1,12 @@
 # multispectral-retrieval-using-MODIS
-Code and data for retrieving droplet profiles using MODIS data. Buggee and Pilewskie 2024
+
+Andrew John Buggee
+
+Created: 6 August 2025
+Lasted edit: 6 August 2025
+
+-----------------------------------------------------------------------------------------
+
+Code and data used for analysis in "Retrieving Vertical Profiles of Cloud Droplet Effective Radius using Multispectral Measurements from MODIS: Examples and Limitations", Andrew John Buggee and Peter Pilewskie, 2025, EGU AMT.
+
+
